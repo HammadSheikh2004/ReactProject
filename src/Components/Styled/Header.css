@@ -1,0 +1,38 @@
+.navbar{
+  position: fixed;
+  width: 100%;
+  background-color: #FD8469;
+}
+
+.navbar-toggler:focus {
+  outline: unset !important;
+  border: unset !important;
+  box-shadow: none !important;
+}
+
+.navbar .container .navbar-nav .nav-item .menu-active{
+ border: 1px solid black !important;
+ font-weight: bolder !important;
+}
+
+.navbar .container .logo img {
+  height: 4rem;
+}
+
+@media screen and (max-width:991px) {
+  .navbar .container .logo img {
+    margin-left: -36px !important;
+    align-items: center;
+    display: flex;
+  }
+}
+
+@media screen and (max-width:575px) {
+  .navbar .container .logo img {
+    margin-left: -36px !important;
+    align-items: center;
+    display: flex;    
+    padding-left: 6px;
+
+  }
+}

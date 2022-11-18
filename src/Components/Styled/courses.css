@@ -1,0 +1,12 @@
+.box-container{
+    padding-top: 8rem;
+}
+
+.box-container .box{
+    border: 0.1rem solid#FD8469;
+}
+
+.course-btn{
+background-color: #84DCFF;
+color: #FD8469;
+}

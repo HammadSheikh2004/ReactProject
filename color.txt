@@ -1,0 +1,4 @@
+main-color = #FD8469;
+light-main-coor = #84DCFF;
+white = #F3F3F3;
+black = #000000;

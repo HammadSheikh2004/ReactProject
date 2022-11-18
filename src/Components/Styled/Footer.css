@@ -1,0 +1,47 @@
+.footer {
+  padding-top: 2rem;
+  background-color: #84DCFF !important;
+  margin-top: 5rem;
+}
+
+.footer h4{
+  color: #FD8469;
+}
+
+.footer .nav-link {
+  color: #000000;
+}
+
+.footer .box .social-links i {
+  font-size: 1.5rem;
+  padding: 0 0.4rem;
+  cursor: pointer;
+}
+
+.footer .box .social-links i:hover {
+  color: #FD8469;
+}
+
+.footer .box .news-letter .search-form{
+  border: 0.1rem solid #FD8469;
+  margin-bottom: 1rem;
+  border-radius: 0.6rem;
+  padding: .2rem;
+  padding-left: 0.5rem;
+}
+
+.footer .box .news-letter .search-form:focus{
+  border:0.1rem solid #84DCFF !important;
+}
+
+.footer .box .news-letter .search-btn{
+  padding: .2rem;
+  background-color: transparent;
+  border-radius: .5rem;
+}
+
+.footer .credit{
+  border-top: 0.2rem solid #FD8469;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
